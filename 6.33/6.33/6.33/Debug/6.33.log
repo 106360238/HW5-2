@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\user\desktop\106360238_游宗翰\6.33\soure\main.c(21): warning C4013: 'binarySearch' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\106360238_游宗翰\6.33\soure\main.c(30): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\106360238_游宗翰\6.33\soure\main.c(33): warning C4142: 'binarySearch': 良性的類型重複定義
+c:\users\user\desktop\106360238_游宗翰\6.33\soure\main.c(57): warning C4715: 'binarySearch': 不是所有控制路徑都傳回值
+  6.33.vcxproj -> C:\Users\User\Desktop\106360238_游宗翰\6.33\6.33\Debug\6.33.exe
+  6.33.vcxproj -> C:\Users\User\Desktop\106360238_游宗翰\6.33\6.33\Debug\6.33.pdb (Partial PDB)
